@@ -1,0 +1,22 @@
+
+h
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(…‚8ÉåÏİ1
+^
+java:S1854"<Remove this useless assignment to local variable "resposta".(®‘Èıÿÿÿÿ8Å•Ïİ1
+_
+java:S1854"=Remove this useless assignment to local variable "diasMeses".(™æŞˆüÿÿÿÿ8ù Ëİ1
+[
+java:S1854
+"9Remove this useless assignment to local variable "meses".(ÂÄâşÿÿÿÿ8¹ÖÂİ1
+L
+java:S1481
+"*Remove this unused "meses" local variable.(ÂÄâşÿÿÿÿ8ºÖÂİ1
+P
+java:S1481".Remove this unused "diasMeses" local variable.(™æŞˆüÿÿÿÿ8ş Ëİ1
+L	java:S106"+Replace this use of System.out by a logger.(Ä••øÿÿÿÿ8ÓñÌİ1
+O
+java:S1481"-Remove this unused "resposta" local variable.(®‘Èıÿÿÿÿ8Ë•Ïİ1
+E	java:S108")Either remove or fill this block of code.(…‚8İåÏİ1
+>	java:S131""Add a default case to this switch.(…‚8ååÏİ1
+S
+java:S1144"1Remove this unused private "pesquisarMes" method.(Â±¤æÿÿÿÿÿ8Ì•Ïİ1

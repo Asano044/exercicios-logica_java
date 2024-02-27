@@ -16,6 +16,8 @@ public class Calculadora {
         System.out.println("Informe o sinal da operação entre: [somar/subtrair/multiplicacao/divisão]: ");
         String sinal = leitura.nextLine();
 
+
+
         switch(sinal) {
             case "somar" -> System.out.println(RESULTADO + soma(valor1, valor2));
             case "subtrair" -> System.out.println(RESULTADO + subtrair(valor1,valor2));
@@ -23,6 +25,7 @@ public class Calculadora {
             case "divisão" -> System.out.println(RESULTADO + dividir(valor1, valor2));
             default -> System.exit(0);
         }
+
     }
 
     private static float soma(float valor1, float valor2) {
@@ -40,4 +43,11 @@ public class Calculadora {
     private static float dividir(float valor1, float valor2) {
         return valor1 / valor2;
     }
+
+
+
+
+
+
+
 }

@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 //Crie um programa que leia um número inteiro e exiba se ele é par ou ímpar
 public class ParOuImpar {
-
     public static void main(String[]args) {
         Scanner leitura = new Scanner(System.in);
 
